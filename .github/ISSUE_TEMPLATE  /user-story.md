@@ -12,7 +12,7 @@ assignees: ''
 **Afin de** [benefit]
 
 ### Détails et hypothèse
-* [document ce que vous savez]
+* [documents et ce que vous savez]
 
 ### Critères d'acceptation
 ```gherkin
